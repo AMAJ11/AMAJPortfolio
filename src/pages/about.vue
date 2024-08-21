@@ -1,7 +1,7 @@
 <template>
   <div class="pro">
     <v-container>
-      <v-row class="mt-3">
+      <v-row class="mt-3" style="width:100%">
         <v-col cols="12" class="my-5 col">
           <p class="text-h5">
             <span style="color: #1b2590"> Hello</span>, Im Ammar Apo Jeab, Front
@@ -146,10 +146,14 @@ export default {
 .pro {
   padding-top: 6%;
   padding-left: 5%;
+  max-width: 100%;
+  margin: 0;
 }
 .col {
   border: 1px dashed white;
   border-radius: 20px;
+  min-width: 250px;
+  margin: 0;
 }
 .img img {
 transition: 0.1s;
@@ -162,6 +166,6 @@ transition: 0.1s;
   position: absolute;
   bottom: 95px;
 }
-@media (max-width: 1000px) {
+@media (max-width: 500px) {
 }
 </style>
