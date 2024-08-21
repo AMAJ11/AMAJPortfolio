@@ -42,7 +42,7 @@
             <v-spacer></v-spacer>
             <v-col cols="5" sm="4" md="4" lg="3" class="img"
               ><img
-                data-aos="fade-left"
+                data-aos="fade-right"
                 data-aos-duration="2500"
                 style="width: 100px"
                 src="../assets/css.png"
@@ -63,7 +63,7 @@
             <v-spacer></v-spacer>
             <v-col cols="5" sm="4" md="4" lg="3" class="img"
               ><img
-                data-aos="fade-left"
+                data-aos="fade-right"
                 data-aos-duration="2500"
                 style="width: 100px"
                 src="../assets/vue.png"
@@ -84,7 +84,7 @@
             <v-spacer></v-spacer>
             <v-col cols="5" sm="4" md="4" lg="3" class="img"
               ><img
-                data-aos="fade-left"
+                data-aos="fade-right"
                 data-aos-duration="2500"
                 style="width: 100px"
                 src="../assets/bootstrap.png"
@@ -105,7 +105,7 @@
             <v-spacer class="hidden-sm-and-up"></v-spacer>
             <v-col cols="5" sm="4" md="4" lg="3" class="img"
               ><img
-                data-aos="fade-left"
+                data-aos="fade-right"
                 data-aos-duration="2500"
                 style="width: 100px"
                 src="../assets/cs.png"
